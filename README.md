@@ -1,4 +1,4 @@
-# Projet de Conception Objet et de Programmation Orientée Objet (DUT S2)
+# Projet de Conception Objet et de Programmation Orientée Objet (DUT - Semestre 2)
 
 On considère un aquarium d'eau douce froide reproduisant au mieux le biotope du lac SaintLaurent. Les dimensions sont suffisamment grandes pour que les poissons puissent évoluer et se reproduire de manière naturelle et sans stress. Dans cet environnement fermé cohabitent des tigres d'eau-douce (**maskinongé**) et des grands **brochets**, deux espèces différentes sexuées. Parfois de cette union peut naître un hybride appelé **brochet tigré**, comme tous les hybrides, ce poisson ne peut pas se reproduire. 
 
